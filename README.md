@@ -61,6 +61,7 @@ A interface gráfica exibe apenas o tabuleiro principal onde o jogo acontece. As
 ├── requirements.txt    # Dependências do projeto
 ├── training.log        # Log do treinamento dos agentes
 └── xadrez ico/         # Diretório contendo as imagens das peças
+```
 
 📈 Resultados
 Modelos Treinados: Os modelos dos agentes são salvos em ana_model.h5 e pedro_model.h5, sendo continuamente aprimorados com o tempo.
