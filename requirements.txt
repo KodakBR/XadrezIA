@@ -1,0 +1,23 @@
+# Dependências otimizadas para o jogo de xadrez com IA
+# Versões específicas para melhor performance e compatibilidade
+
+# Interface gráfica
+pygame==2.5.2
+
+# Biblioteca de xadrez
+python-chess==1.10.0
+
+# Computação numérica e IA
+numpy==1.24.3
+tensorflow==2.13.0
+
+# Monitoramento de performance (para benchmark)
+psutil==5.9.5
+
+# Utilitários
+# (as outras bibliotecas são parte do Python padrão)
+
+# Para desenvolvimento (opcional)
+# pytest==7.4.0
+# black==23.7.0
+# flake8==6.0.0
