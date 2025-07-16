@@ -1,0 +1,29 @@
+# Dependências Otimizadas para Xadrez IA
+# Instalação: pip install -r requirements_optimized.txt
+
+# Core dependencies
+pygame>=2.5.0,<3.0.0
+python-chess>=1.999,<2.0.0
+numpy>=1.24.0,<2.0.0
+
+# Machine Learning (optimized)
+tensorflow>=2.13.0,<3.0.0
+# tensorflow-lite>=2.13.0  # Uncomment for mobile/edge deployment
+
+# Performance monitoring
+psutil>=5.9.0,<6.0.0
+
+# Image processing (optional, for further optimizations)
+Pillow>=10.0.0,<11.0.0
+
+# Development and profiling (optional)
+# memory-profiler>=0.61.0
+# line-profiler>=4.1.0
+# py-spy>=0.3.0
+
+# Optional: For web deployment
+# flask>=2.3.0
+# gunicorn>=21.0.0
+
+# Optional: For advanced logging
+# loguru>=0.7.0
